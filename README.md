@@ -1,5 +1,7 @@
 # shape-up
 
+[![npm version](https://badge.fury.io/js/%40cmloegcmluin%2Fshape-up.svg)](https://badge.fury.io/js/%40cmloegcmluin%2Fshape-up)
+
 Purify geometry files.
 
 Requires `https://github.com/jonnenauha/obj-simplify`.
