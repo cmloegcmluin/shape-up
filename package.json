@@ -1,6 +1,6 @@
 {
   "name": "@cmloegcmluin/shape-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "purify geometry files",
   "bin": {
     "shape-up": "bin/index.js"
