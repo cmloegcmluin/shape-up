@@ -1,2 +1,5 @@
 # shape-up
-purify geometry files
+
+Purify geometry files.
+
+
