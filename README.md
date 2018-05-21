@@ -8,7 +8,7 @@ Requires `https://github.com/jonnenauha/obj-simplify`.
 
 ## usage
 
-`npm i shape-up`
+`npm i @cmloegcmluin/shape-up`
 
 Put your `.obj` files in `./geometry`.
 
